@@ -31,7 +31,7 @@ All data are from the University of Chicago Center for Municipal Finance and rel
 
 - README.md
 - Main paper
-- Appendix_math.pdf         # extended mathematical appendix
+- Appendix_math.pdf        
 - Raw Data
   - city_bond_index.csv
   - county_bond_index.csv
