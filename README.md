@@ -30,13 +30,13 @@ All data are from the University of Chicago Center for Municipal Finance and rel
 **2. Repository Structure**
 
 - README.md
-- Main paper
-- Appendix_math.pdf        
+- CV1_Main_Paper.pdf
+- CV1_Mathematical_Appendix.pdf        
 - Raw Data
   - city_bond_index.csv
   - county_bond_index.csv
   - school_bond_index.csv
   - muni_vix_data.csv
   - muni_liquidity.csv
-- replication_notebook.ipynb
+- CV1ReplicationCode.ipynb
  
